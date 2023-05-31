@@ -1,0 +1,9 @@
+Asian Suppliers Company
+Bharatpur,Chitwan
+ph:056-55566
+Bill#:20092022104329	 Customer Name:basu
+Date:2022-09-20
+
+Sno	Item Name		Qty	Rate	Amount
+1	hjgh		100	100	10000
+thank you for visiting us!!

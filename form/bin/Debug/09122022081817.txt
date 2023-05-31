@@ -1,0 +1,11 @@
+Asian Suppliers Company
+Bharatpur,Chitwan
+ph:056-55566
+Bill#:09122022081817
+ Customer Name:sandip
+Date:2022-12-09
+
+Sno	Item Name		Qty	Rate	Amount
+1	pen 		10	10	100
+2	copy		20	50	1000
+thank you for visiting us!!
